@@ -54,5 +54,4 @@ Multiple Sensors: Integrating additional sensors for more detailed waste classif
 Energy Efficiency: Optimizing power consumption for long-term operation.
 
 License
-This project is open-source and licensed under the MIT License. Feel free to contribute or modify the project for your needs.
-Would you like any modifications or additions to this description?
+This project is open-source and licensed under the MIT License.
